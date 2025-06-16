@@ -54,7 +54,7 @@ This project leverages [Puter's Free OpenAI and Claude API](https://developer.pu
 ## 📦 Installation
 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/AI-Chat-Assistant.git
+git clone https://github.com/usualdork/AI-Chat-Assistant.git
 ```
 2. Install dependencies
 ```bash
